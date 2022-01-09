@@ -1,0 +1,25 @@
+.topnav {
+    background-color: rgb(218, 24, 24);
+    overflow: hidden;
+  }
+  
+ 
+
+  .topnav  {
+    background-color: rgb(231, 8, 231);
+  }
+  
+  body {
+    background-color: rgb(128, 0, 11);
+  }
+
+  .image {
+    padding-top: 50px;
+    padding-left:1000px;
+  }
+
+  h1 {
+    font-style: oblique;
+    color: seashell;
+   padding-left: 500px;
+  }
